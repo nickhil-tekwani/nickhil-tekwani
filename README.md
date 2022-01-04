@@ -5,7 +5,7 @@
 - Currently in Boston @ Northeastern University
 - Born and Raised in Bay Area, CA
 
-- My Website 👉 [nickhil-tekwani.github.io](nickhil-tekwani.github.io) 👈
+- My Website 👉 [nickhil-tekwani.github.io](https://nickhil-tekwani.github.io/) 👈
 
 - Director of Outreach for the [Northeastern Data Club](https://github.com/northeastern-data-club)
 - Mentor at [CoSMO](http://cosmo.khoury.northeastern.edu/)
