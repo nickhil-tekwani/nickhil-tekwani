@@ -9,9 +9,9 @@
 - [LinkedIn](https://www.linkedin.com/in/nickhil-tekwani/)
 
 - Past Student Org Affiliations:
-- [Northeastern Data Club](https://github.com/northeastern-data-club)
-- [CoSMO](http://cosmo.khoury.northeastern.edu/)
-- [BU Jalwa](https://www.youtube.com/user/JalwaBU)
+  - [Northeastern Data Club](https://github.com/northeastern-data-club)
+  - [CoSMO](http://cosmo.khoury.northeastern.edu/)
+  - [BU Jalwa](https://www.youtube.com/user/JalwaBU)
 
 
 
